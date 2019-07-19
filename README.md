@@ -1,5 +1,6 @@
 # Web-Share-API-demo
 Web Share API 在网页调用系统的分享按钮演示
+支持 Chrome on Android 及Safari及微信
 
 演示地址 
 https://www.p2hp.com/share.html
